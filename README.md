@@ -28,10 +28,18 @@ I focus on building scalable systems, immersive artificial intelligence, and flu
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF3366.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Animate](https://img.shields.io/badge/Adobe%20Animate-%23RED.svg?style=for-the-badge&logo=adobeanimate&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-%237D929E.svg?style=for-the-badge&logo=aseprite&logoColor=white)
 
 ### Workflow & Management
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%230079BF.svg?style=for-the-badge&logo=trello&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-%23050038.svg?style=for-the-badge&logo=miro&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%230079BF.svg?style=for-the-badge&logo=trello&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-%23050038.svg?style=for-the-badge&logo=miro&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
+## 🌐 Portfolio & Contact
+
+[![itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://agustin-cespedes.itch.io)
+[![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/agustin_cespedes)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/agus-cespedes-83383b33b)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agus360cespedes@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agus_cespedes__/)
 
 ---
 
