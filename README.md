@@ -37,8 +37,8 @@ I focus on building scalable systems, immersive artificial intelligence, and flu
 [![itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://agustin-cespedes.itch.io)
 [![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/agustin_cespedes)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/agus-cespedes-83383b33b)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agus360cespedes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agus-cespedes-83383b33b)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=agus360cespedes@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agus_cespedes__/)
 
 ---
