@@ -4,8 +4,21 @@ I am a **Game Developer & Technical Artist** based in Mendoza, Argentina, specia
 
 I focus on building scalable systems, fluid gameplay mechanics, modular UI, and optimizing development pipelines to deliver polished gameplay experiences.
 
+<p align="center">
+  <a href="https://agustin-cespedes.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-%239D4EDD.svg?style=for-the-badge&logoColor=white" alt="Portfolio" height="47">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://agustin-cespedes.github.io/portfolio/#contact" target="_blank">
+    <img src="https://img.shields.io/badge/💬_Contact_Me-%237209B7.svg?style=for-the-badge&logoColor=white" alt="Contact Me" height="47">
+  </a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-%239D4EDD.svg?style=for-the-badge&logoColor=white)](https://agustin-cespedes.github.io/portfolio/)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 ---
 
 ## 🛠️ Tech Stack & Expertise
@@ -35,10 +48,11 @@ I focus on building scalable systems, fluid gameplay mechanics, modular UI, and 
 ---
 
 ## 🌐 Portfolio & Contact
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-%239D4EDD.svg?style=for-the-badge&logoColor=white)](https://agustin-cespedes.github.io/portfolio/)
+[![Contact Me](https://img.shields.io/badge/💬_Contact_Me-%237209B7.svg?style=for-the-badge&logoColor=white)](https://agustin-cespedes.github.io/portfolio/#contact)
 [![itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://agustin-cespedes.itch.io)
 [![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?style=for-the-badge&logo=artstation&logoColor=white)](https://agustin_cespedes.artstation.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agus-cespedes-83383b33b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-cespedes)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agus360cespedes@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agus_cespedes__/)
 
